@@ -1,6 +1,8 @@
 # DIO | Bootcamp Microsoft Azure AI Fundamentals
 # Reconhecimento Facial e transformação de imagens em Dados no Azure ML
 
+https://portal.vision.cognitive.azure.com
+
 ## Imagem 1
 
 <img src="./inputs/1.png" width="400px" />
