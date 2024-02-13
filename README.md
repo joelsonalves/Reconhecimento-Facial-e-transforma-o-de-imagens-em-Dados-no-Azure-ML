@@ -7,7 +7,7 @@
 
 1.1. OCR | Atributos detectados:
 
-<img src="./outputs/ocr/1.png" width="400px" />
+<img src="./outputs/ocr/1.png" width="800px"/>
 
 - 3
 - ERROS
@@ -22,7 +22,7 @@
 
 2.1. OCR | Atributos detectados:
 
-<img src="./outputs/ocr/2.png" width="400px" />
+<img src="./outputs/ocr/2.png" width="800px" />
 
 - 1
 - MUITA CARGA
@@ -36,7 +36,7 @@
 
 3.1. OCR | Atributos detectados:
 
-<img src="./outputs/ocr/3.png" width="400px" />
+<img src="./outputs/ocr/3.png" width="800px" />
 
 - 2
 - INCONSISTÊNCIA
@@ -50,7 +50,7 @@
 
 4.1. OCR | Atributos detectados:
 
-<img src="./outputs/ocr/4.png" width="400px" />
+<img src="./outputs/ocr/4.png" width="800px" />
 
 - 3
 - MALHAR EM JEJUM
