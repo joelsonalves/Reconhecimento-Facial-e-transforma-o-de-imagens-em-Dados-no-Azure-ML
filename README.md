@@ -2,6 +2,7 @@
 # Reconhecimento Facial e transformação de imagens em Dados no Azure ML
 
 https://portal.azure.com
+
 https://portal.vision.cognitive.azure.com
 
 ## Imagem 1
