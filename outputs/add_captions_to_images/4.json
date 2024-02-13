@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "3db5b67a-44b8-4ca3-a20c-514f48fcca23",
+  "content-length": "161",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a woman lifting weights in a gym",
+    "confidence": 0.6947184205055237
+  },
+  "metadata": {
+    "width": 1080,
+    "height": 1080
+  }
+}
