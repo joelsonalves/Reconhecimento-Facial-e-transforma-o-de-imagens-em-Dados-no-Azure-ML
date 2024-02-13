@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "ab10d4a4-7f33-4531-81ba-13b5fb075223",
+  "content-length": "163",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a black weights on a black surface",
+    "confidence": 0.6143953204154968
+  },
+  "metadata": {
+    "width": 1080,
+    "height": 1080
+  }
+}
