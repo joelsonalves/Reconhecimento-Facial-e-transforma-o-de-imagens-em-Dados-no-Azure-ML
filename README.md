@@ -3,7 +3,7 @@
 
 ## Imagem 1
 
-![Imagem 1](./inputs/1.png)
+<img src="./inputs/1.png" width="400px" />
 
 1.1. OCR | Atributos detectados:
 - 3
@@ -15,9 +15,31 @@
 
 ## Imagem 2
 
-![Imagem 2](./inputs/2.png)
+<img src="./inputs/2.png" width="400px" />
 
-2.2. OCR | Atributos detectados:
+2.1. OCR | Atributos detectados:
+- 1
+- MUITA CARGA
+- Não ultrapasse o limite que você aguenta.
+- Avance devagar na quantidade de carga
+- em cada exercício.
+
+## Imagem 3
+
+<img src="./inputs/3.png" width="400px" />
+
+3.1. OCR | Atributos detectados:
+- 1
+- MUITA CARGA
+- Não ultrapasse o limite que você aguenta.
+- Avance devagar na quantidade de carga
+- em cada exercício.
+
+## Imagem 4
+
+<img src="./inputs/4.png" width="400px" />
+
+4.1. OCR | Atributos detectados:
 - 1
 - MUITA CARGA
 - Não ultrapasse o limite que você aguenta.
