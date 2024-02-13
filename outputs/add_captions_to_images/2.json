@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "fa2a87f1-9db9-4f1a-96c3-a541c48d53c0",
+  "content-length": "169",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a yellow and black poster with a barbell",
+    "confidence": 0.6319782733917236
+  },
+  "metadata": {
+    "width": 1080,
+    "height": 1080
+  }
+}
