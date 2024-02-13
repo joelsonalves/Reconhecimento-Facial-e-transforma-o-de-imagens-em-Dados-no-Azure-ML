@@ -9,12 +9,9 @@
 
 <img src="./outputs/ocr/1.png" width="800px"/>
 
-- 3
-- ERROS
-- de iniciantes
-- NA ACADEMIA
-- PEY SPOR
-- BBELSHE
+1.2. Add captions to images | Atributos detectados:
+
+<img src="./outputs/add_captions_to_images/1.png" width="800px"/>
 
 ## Imagem 2
 
@@ -24,11 +21,9 @@
 
 <img src="./outputs/ocr/2.png" width="800px" />
 
-- 1
-- MUITA CARGA
-- Não ultrapasse o limite que você aguenta.
-- Avance devagar na quantidade de carga
-- em cada exercício.
+2.2. Add captions to images | Atributos detectados:
+
+<img src="./outputs/add_captions_to_images/2.png" width="800px"/>
 
 ## Imagem 3
 
@@ -38,11 +33,9 @@
 
 <img src="./outputs/ocr/3.png" width="800px" />
 
-- 2
-- INCONSISTÊNCIA
-- Não adianta ir uma semana e faltar na
-- outra. A falta de regularidade deixam
-- seus objetivos cada vez mais longes.
+3.2. Add captions to images | Atributos detectados:
+
+<img src="./outputs/add_captions_to_images/3.png" width="800px"/>
 
 ## Imagem 4
 
@@ -52,11 +45,7 @@
 
 <img src="./outputs/ocr/4.png" width="800px" />
 
-- 3
-- MALHAR EM JEJUM
-- Quando vai malhar, você precisa de forças.
-- Então uma alimentação balanceada pode
-- fazer toda a diferença no seu treino.
-- Compartilhe esse post
-- com seu amigo iniciante!
+4.2. Add captions to images | Atributos detectados:
+
+<img src="./outputs/add_captions_to_images/4.png" width="800px"/>
 
